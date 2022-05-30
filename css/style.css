@@ -221,6 +221,7 @@ i {
   position: relative;
   margin-bottom: 1rem;
   margin: auto;
+  box-shadow: 0px 5px 10px 0px gainsboro;
 }
 
 .restaurant-card h4,
